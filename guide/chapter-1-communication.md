@@ -4,7 +4,7 @@ Memory changes are a natural part of growing older, much like hearing or vision 
 
 ## Guiding Principles
 
-1.  **Memory loss is not a failure.** It is a common aspect of aging. The person is not “suffering from Alzheimer’s”; they are living with the natural changes that come with a long life.
+1.  **Memory loss is not a failure.** It is a common aspect of aging. Unlike hearing or vision loss, memory changes are often wrongly portrayed as a disease, but they are simply another aspect of aging. The person is not “suffering from Alzheimer’s”; they are living with the natural changes that come with a long life.
 2.  **Connection matters more than correction.** Arguing about facts or correcting misremembered details usually causes distress and pushes the person away. Our goal is to maintain a warm, trusting relationship.
 3.  **Every person is unique.** What works for one individual may not work for another. Observe, be flexible, and adjust your approach as needed.
 
@@ -23,6 +23,7 @@ Memory changes are a natural part of growing older, much like hearing or vision 
 - Write down key words or draw simple sketches if it helps.
 
 ### Validate, Don’t Correct
+Correcting a person's memory not only causes distress but also undermines their sense of self and security. Our role is to provide emotional safety, not factual accuracy. Keep these principles in mind:
 - If the person says something that isn’t factually accurate (e.g., “I need to go to work today,” when they retired years ago), focus on the emotion behind the statement. You might reply, “It sounds like you’re feeling ready to do something important. Shall we take a walk together?”
 - Acknowledge their feelings: “I can see that worries you,” or “That must have been a happy memory.”
 - Never argue or insist on “the truth.” The person’s reality is what they are experiencing in that moment.
